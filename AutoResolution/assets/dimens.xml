@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<resources>
+
+    <!-- firstclueview.xml -->
+    <dimen name="firstclueview_image_width">496px</dimen>
+    <dimen name="firstclueview_image_height">522px</dimen>
+    <dimen name="firstclueview_image_marginTop">150px</dimen>
+    <dimen name="firstclueview_text_marginTop">85px</dimen>
+    <dimen name="firstclueview_text_marginleftRight">30px</dimen>
+    <dimen name="firstclueview_LL_marginTop">112px</dimen>
+    <dimen name="firstclueview_LLimg_margin">10px</dimen>
+    <dimen name="firstclueview_LLimg_width">18px</dimen>
+    <dimen name="firstclueview_LLimg_height">18px</dimen>
+
+</resources>
